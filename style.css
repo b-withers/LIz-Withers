@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+}
+
+ .navbar.transparent.navbar-inverse .navbar-inner {
+   background: rgba(0,0,0,0.4);
+   color: white;
+   margin-bottom: 0px;
+}
+
+#star{
+	background-image: url("star.png");
+	height: 205px;
+}
+
+#pink{
+	background-image: url("pink.png");
+	height: 205px;
+}
+
+#menu{
+	color: white;
+}
+
+#misc{
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 75px;
+}
